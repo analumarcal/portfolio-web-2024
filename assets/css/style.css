@@ -317,7 +317,7 @@ body {
         height: 100%;
     }
 }
-@media (max-width: 400px) {
+@media (max-width: 460px) {
     #c1 {
         width: 240px;
         height: 240px;
