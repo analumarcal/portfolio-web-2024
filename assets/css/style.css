@@ -185,6 +185,7 @@ body {
     border: 2px solid white;
     width: 230px;
     height: 230px;
+    border-radius: 20px;
 }
 .img-projeto img {
     width: 100%;
