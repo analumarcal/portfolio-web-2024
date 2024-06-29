@@ -184,6 +184,8 @@ body {
 .img-projeto {
     width: 230px;
     height: 230px;
+    border-radius: 10px;
+    overflow: hidden;
 }
 .img-projeto img {
     width: 100%;
